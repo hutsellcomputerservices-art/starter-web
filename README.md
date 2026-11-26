@@ -14,3 +14,6 @@ As stated above the main interest is to provibe examples for Git.
 This is a smilpe web project, deployment can be on any web server or even a local file system.
 
 ##Contribute
+
+###Copyright 
+2014 Git.Training
